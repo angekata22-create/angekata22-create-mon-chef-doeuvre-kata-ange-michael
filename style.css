@@ -1,0 +1,18 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: azure;
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: center; /* Gère l'alignement sur l'axe principal (horizontal par défaut) */
+    align-items: center;    /* Gère l'alignement sur l'axe secondaire (vertical par défaut) */
+    padding: 1rem 2rem;
+    background-color: white;
+}
+
+menu a {
+
+}
+
